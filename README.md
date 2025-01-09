@@ -1,2 +1,2 @@
-# check_steam_version
-check_steam version checker
+# version_checker
+FujiFluxxs version checker
